@@ -19,7 +19,6 @@ CLASSIFIERS = [
     'Framework :: Django :: 4.2',
     'Framework :: Django :: 5.0',
     'Framework :: Django :: 5.1',
-
 ]
 
 this_directory = path.abspath(path.dirname(__file__))
